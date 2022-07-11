@@ -2,7 +2,7 @@
 
 My name is Lemuel, but most people know me as Lemi.
 
-I love building side projects in Python 🐍 with [Django](http://djangoproject.com) and [Flutter](https://flutter.dev).
+I love building side projects in Python 🐍 with [Django](http://djangoproject.com). I also, very occassionally, take [Flutter](https://flutter.dev) for a spin.
 
 
 
